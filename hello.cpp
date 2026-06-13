@@ -1,3 +1,4 @@
+//it is my first program in c++ journey
 #include<iostream>
 using namespace std;
 int main()
