@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//gg
 int main()
 {
     //THIS COMMAND WE USE TO DO PRINT 
