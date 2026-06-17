@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//gg
+//loops are used to perform repeatition in our program 
 int main()
 {
     //THIS COMMAND WE USE TO DO PRINT 
