@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//function are mainly used to short our time one function can be used multiple time in the program 
 // Function to display a welcome message
 void welcomeMessage()
 {
