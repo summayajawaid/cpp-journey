@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int num = 10;
 
-    // Pointer declaration
+    // declaration
     int* ptr = &num;
 
     // Output values
