@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//pointers are used for refrences
 int main() {
     int num = 10;
 
