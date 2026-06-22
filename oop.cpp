@@ -24,3 +24,6 @@ int main() {
     s.setMarks(85);
     cout << "Marks: " << s.getMarks();
 }
+
+
+// 2.
