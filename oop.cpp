@@ -26,4 +26,10 @@ int main() {
 }
 
 
-// 2.
+// 2. Abstraction
+// Hiding internal details and showing only essential features
+// Achieved using classes and functions
+
+// 👉 Example:
+
+
