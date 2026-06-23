@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//array are used for listing 
+//array used for listing 
 int main() 
 {
     // Step 1: Declare an array of size 5
