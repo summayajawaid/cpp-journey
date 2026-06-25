@@ -31,5 +31,21 @@ int main() {
 // Achieved using classes and functions
 
 // 👉 Example:
+#include <iostream>
+using namespace std;
+
+class Car {
+public:
+    void start() {
+        cout << "Car started using key\n";
+    }
+};
+
+int main() {
+    Car c;
+    c.start(); // user doesn't know internal mechanism
+}
+
+
 
 
