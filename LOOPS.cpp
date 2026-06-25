@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//loops are used to perform repeatition in our program 
+//any loops are used to perform repeatition in our program 
 int main()
 {
     //THIS COMMAND WE USE TO DO PRINT 
