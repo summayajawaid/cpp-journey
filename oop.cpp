@@ -30,7 +30,7 @@ int main() {
 // Hiding internal details and showing only essential features
 // Achieved using classes and functions
 
-// 👉 Example:
+//  Example:
 #include <iostream>
 using namespace std;
 
@@ -53,7 +53,7 @@ int main() {
 // One class acquires properties of another class
 // Promotes code reuse
 
-// 👉 Example:
+//  Example:
 
 #include <iostream>
 using namespace std;
