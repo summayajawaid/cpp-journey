@@ -49,3 +49,58 @@ int main() {
 
 
 
+// 3. Inheritance
+// One class acquires properties of another class
+// Promotes code reuse
+
+// 👉 Example:
+
+#include <iostream>
+using namespace std;
+
+class Animal {
+public:
+    void eat() {
+        cout << "This animal eats food\n";
+    }
+};
+
+class Dog : public Animal {
+public:
+    void bark() {
+        cout << "Dog barks\n";
+    }
+};
+
+int main() {
+    Dog d;
+    d.eat();
+    d.bark();
+}
+// 4. Polymorphism
+// One function behaves differently in different situations
+// Types:
+// Compile-time (Function Overloading)
+// Run-time (Function Overriding)
+
+// 👉 Example (Function Overloading):
+
+#include <iostream>
+using namespace std;
+
+class Math {
+public:
+    int add(int a, int b) {
+        return a + b;
+    }
+
+    int add(int a, int b, int c) {
+        return a + b + c;
+    }
+};
+
+int main() {
+    Math m;
+    cout << m.add(2, 3) << endl;
+    cout << m.add(2, 3, 4);
+}
