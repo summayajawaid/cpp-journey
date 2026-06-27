@@ -83,7 +83,7 @@ int main() {
 // Compile-time (Function Overloading)
 // Run-time (Function Overriding)
 
-// 👉 Example (Function Overloading):
+//  Example (Function Overloading):
 
 #include <iostream>
 using namespace std;
