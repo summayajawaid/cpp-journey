@@ -4,7 +4,6 @@
 // Protects data using access modifiers (private, public)
 #include <iostream>
 using namespace std;
-
 class Student {
 private:
     int marks;
