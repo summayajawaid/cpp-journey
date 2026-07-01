@@ -1,3 +1,4 @@
+//array are use to list things 
 #include<iostream>
 using namespace std;
 int main()
